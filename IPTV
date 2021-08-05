@@ -83,3 +83,257 @@ http://103.81.104.118/hls/stream40.m3u8
 http://cdn.cinemabaaz.live/EkattorTV/index.m3u8
 #EXTINF:-1,Unknown 42
 http://cdn.cinemabaaz.live/News24/index.m3u8
+
+#EXTINF:-1,Unknown 0
+http://103.159.4.38:8080/BD-BANGLA-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 1
+http://103.159.4.38:8080/BD-BANGLA-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 2
+http://103.159.4.38:8080/BD-BANGLA-3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 3
+http://103.159.4.38:8080/BD-BANGLA-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 4
+http://103.159.4.38:8080/BD-BANGLA-5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 5
+http://103.159.4.38:8080/BD-BANGLA-6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 6
+http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 7
+http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 8
+http://103.159.4.38:8080/BD-BANGLA-9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 9
+http://103.159.4.38:8080/BD-BANGLA-10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 10
+http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 11
+http://103.159.4.38:8080/BD-BANGLA-12/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 12
+http://103.159.4.38:8080/BD-BANGLA-13/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 13
+http://103.159.4.38:8080/BD-BANGLA-14/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 14
+http://103.159.4.38:8080/BD-BANGLA-15/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 15
+http://103.159.4.38:8080/BD-BANGLA-16/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 16
+http://103.159.4.38:8080/BD-BANGLA-17/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 17
+http://103.159.4.38:8080/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 18
+http://103.159.4.38:8080/BD-BANGLA-19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 19
+http://103.159.4.38:8080/BD-BANGLA-20/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 20
+http://103.159.4.38:8080/BD-BANGLA-21/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 0
+http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 1
+http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 3
+http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 4
+http://103.159.4.38:8080/IN-BANGLA-5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 5
+http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
+
+http://103.159.4.38:8080/MOVIE-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 1
+http://103.159.4.38:8080/MOVIE-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 2
+http://103.159.4.38:8080/MOVIE-3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 3
+http://103.159.4.38:8080/MOVIE-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 4
+http://103.159.4.38:8080/MOVIE-5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 5
+http://103.159.4.38:8080/MOVIE-6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 6
+http://103.159.4.38:8080/MOVIE-7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 7
+http://103.159.4.38:8080/MOVIE-8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 8
+http://103.159.4.38:8080/MOVIE-9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 9
+http://103.159.4.38:8080/MOVIE-10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 10
+http://103.159.4.38:8080/MOVIE-11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 11
+http://103.159.4.38:8080/MOVIE-12/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 12
+http://103.159.4.38:8080/MOVIE-13/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 13
+http://103.159.4.38:8080/MOVIE-14/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 14
+http://103.159.4.38:8080/MOVIE-15/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 15
+http://103.159.4.38:8080/MOVIE-16/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 16
+http://103.159.4.38:8080/MOVIE-17/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 17
+http://103.159.4.38:8080/MOVIE-18/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 18
+http://103.159.4.38:8080/MOVIE-19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 19
+http://103.159.4.38:8080/MOVIE-20/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 20
+http://103.159.4.38:8080/MOVIE-21/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 0
+http://103.159.4.38:8080/NEWS-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 1
+http://103.159.4.38:8080/NEWS-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 2
+http://103.159.4.38:8080/NEWS-3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 3
+http://103.159.4.38:8080/NEWS-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 4
+http://103.159.4.38:8080/NEWS-5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 5
+http://103.159.4.38:8080/NEWS-6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 6
+http://103.159.4.38:8080/NEWS-7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 7
+http://103.159.4.38:8080/NEWS-8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 8
+http://103.159.4.38:8080/NEWS-9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 9
+http://103.159.4.38:8080/NEWS-10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 10
+http://103.159.4.38:8080/NEWS-11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 0
+http://103.159.4.38:8080/SPORTS-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 1
+http://103.159.4.38:8080/SPORTS-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 2
+http://103.159.4.38:8080/SPORTS-3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 3
+http://103.159.4.38:8080/SPORTS-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 4
+http://103.159.4.38:8080/SPORTS-5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 5
+http://103.159.4.38:8080/SPORTS-6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 6
+http://103.159.4.38:8080/SPORTS-7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 7
+http://103.159.4.38:8080/SPORTS-8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 8
+http://103.159.4.38:8080/SPORTS-9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 9
+http://103.159.4.38:8080/SPORTS-10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 10
+http://103.159.4.38:8080/SPORTS-11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 11
+http://103.159.4.38:8080/SPORTS-12/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 12
+http://103.159.4.38:8080/SPORTS-13/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 13
+http://103.159.4.38:8080/SPORTS-14/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 14
+http://103.159.4.38:8080/SPORTS-15/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 15
+http://103.159.4.38:8080/SPORTS-16/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 16
+http://103.159.4.38:8080/SPORTS-17/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 17
+http://103.159.4.38:8080/SPORTS-18/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 18
+http://103.159.4.38:8080/SPORTS-19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 19
+http://103.159.4.38:8080/SPORTS-20/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 20
+http://103.159.4.38:8080/SPORTS-21/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 0
+http://103.159.4.38:8080/KIDS-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 1
+http://103.159.4.38:8080/KIDS-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 2
+http://103.159.4.38:8080/KIDS-3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 3
+http://103.159.4.38:8080/KIDS-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 4
+http://103.159.4.38:8080/KIDS-5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Unknown 5
+http://103.159.4.38:8080/KIDS-6/tracks-v1a1/mono.m3u8
