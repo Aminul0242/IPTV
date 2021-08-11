@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Unknown 2
+#EXTINF:-1,Unknown 1
 http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:-1,Unknown 2
 http://103.81.104.118/hls/stream2.m3u8
@@ -80,9 +80,57 @@ http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-1,Unknown 40
 http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1,Unknown 41
-http://cdn.cinemabaaz.live/EkattorTV/index.m3u8
+http://103.81.104.118/hls/Gazi-TV.m3u8
 #EXTINF:-1,Unknown 42
-http://cdn.cinemabaaz.live/News24/index.m3u8
+http://103.81.104.118/hls/dipto.m3u8
+#EXTINF:-1,Unknown 43
+http://103.81.104.118/hls/Gan.m3u8
+#EXTINF:-1,Unknown 44
+http://103.81.104.118/hls/dbc.m3u8
+#EXTINF:-1,Unknown 45
+http://103.81.104.118/hls/71.m3u8
+#EXTINF:-1,Unknown 46
+http://103.81.104.118/hls/jamuna.m3u8
+#EXTINF:-1,Unknown 47
+http://103.81.104.118/hls/channel9.m3u8
+#EXTINF:-1,Unknown 48
+http://103.81.104.118/hls/sunbangla.m3u8
+#EXTINF:-1,Unknown 49
+http://103.81.104.118/hls/etv.m3u8
+#EXTINF:-1,Unknown 50
+http://103.81.104.118/hls/indepen.m3u8
+#EXTINF:-1,Unknown 51
+http://103.81.104.118/hls/utv.m3u8
+#EXTINF:-1,Unknown 52
+http://103.81.104.118/hls/lotus.m3u8
+#EXTINF:-1,Unknown 53
+http://103.81.104.118/hls/blueant.m3u8
+#EXTINF:-1,Unknown 54
+http://103.81.104.118/hls/wild.m3u8
+#EXTINF:-1,Unknown 55
+http://103.81.104.118/hls/sonymax.m3u8
+#EXTINF:-1,Unknown 56
+http://103.81.104.118/hls/stargold.m3u8
+#EXTINF:-1,Unknown 57
+http://103.81.104.118/hls/sonyen.m3u8
+#EXTINF:-1,Unknown 58
+http://103.81.104.118/hls/8xm.m3u8
+#EXTINF:-1,Unknown 59
+http://103.81.104.118/hls/zeetv.m3u8
+#EXTINF:-1,Unknown 60
+http://103.81.104.118/hls/t-sports.m3u8
+#EXTINF:-1,Unknown 61
+http://103.81.104.118/hls/select2.m3u8
+#EXTINF:-1,Unknown 62
+http://103.81.104.118/hls/sonyten3.m3u8
+#EXTINF:-1,Unknown 63
+http://103.81.104.118/hls/cn.m3u8
+#EXTINF:-1,Unknown 64
+http://103.81.104.118/hls/duronto.m3u8
+#EXTINF:-1,Unknown 65
+http://103.81.104.118/hls/pogo.m3u8
+#EXTINF:-1,Unknown 66
+http://103.81.104.118/hls/madani.m3u8
 
 #EXTINF:-1,Unknown 0
 http://103.159.4.38:8080/BD-BANGLA-1/tracks-v1a1/mono.m3u8
