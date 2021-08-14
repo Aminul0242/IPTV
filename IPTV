@@ -131,6 +131,37 @@ http://103.81.104.118/hls/duronto.m3u8
 http://103.81.104.118/hls/pogo.m3u8
 #EXTINF:-1,Unknown 66
 http://103.81.104.118/hls/madani.m3u8
+#EXTINF:-1,Unknown 67
+http://103.109.92.27:1934/dlive/ekattor.stream/playlist.m3u8
+#EXTINF:-1,Unknown 68
+http://dds.oncast.me:1934/dlive/sp1.stream/playlist.m3u8
+#EXTINF:-1,Unknown 69
+http://dds.oncast.me:1934/dlive/sp2.stream/playlist.m3u8
+#EXTINF:-1,Unknown 70
+http://dds.oncast.me:1934/dlive/sp3.stream/playlist.m3u8
+#EXTINF:-1,Unknown 71
+http://dds.oncast.me:1934/dlive/sp4.stream/playlist.m3u8
+#EXTINF:-1,Unknown 72
+http://dds.oncast.me:1934/dlive/sp5.stream/playlist.m3u8
+#EXTINF:-1,Unknown 73
+http://dds.oncast.me:1934/dlive/sp6.stream/playlist.m3u8
+#EXTINF:-1,Unknown 74
+http://dds.oncast.me:1934/dlive/sp7.stream/playlist.m3u8
+#EXTINF:-1,Unknown 75
+http://dds.oncast.me:1934/dlive/sp8.stream/playlist.m3u8
+#EXTINF:-1,Unknown 76
+http://dds.oncast.me:1934/dlive/sp9.stream/playlist.m3u8
+#EXTINF:-1,Unknown 77
+http://dds.oncast.me:1934/dlive/sp10.stream/playlist.m3u8
+#EXTINF:-1,Unknown 78
+http://dds.oncast.me:1934/dlive/natgw.stream/playlist.m3u8
+#EXTINF:-1,Unknown 79
+http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8
+#EXTINF:-1,Unknown 80
+http://dds.oncast.me:1934/dlive/ch9.stream/playlist.m3u8
+#EXTINF:-1,Unknown 81
+http://dds.oncast.me:1934/dlive/mass.stream/playlist.m3u8
+
 
 #EXTINF:-1,Unknown 0
 http://103.159.4.38:8080/BD-BANGLA-1/tracks-v1a1/mono.m3u8
