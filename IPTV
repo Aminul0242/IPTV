@@ -136,7 +136,7 @@ http://103.109.92.27:1934/dlive/ekattor.stream/playlist.m3u8
 #EXTINF:-1,Unknown 68
 http://dds.oncast.me:1934/dlive/sp1.stream/playlist.m3u8
 #EXTINF:-1,Unknown 69
-http://dds.oncast.me:1934/dlive/sp2.stream/playlist.m3u8
+http://dds.oncast.me:1934/dlive/sp2.stream/chunks.m3u8
 #EXTINF:-1,Unknown 70
 http://dds.oncast.me:1934/dlive/sp3.stream/playlist.m3u8
 #EXTINF:-1,Unknown 71
