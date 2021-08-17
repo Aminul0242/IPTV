@@ -161,7 +161,10 @@ http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8
 http://dds.oncast.me:1934/dlive/ch9.stream/playlist.m3u8
 #EXTINF:-1,Unknown 81
 http://dds.oncast.me:1934/dlive/mass.stream/playlist.m3u8
-
+#EXTINF:-1,Unknown 82
+http://137.59.155.77:8088/hls/01gazitv.m3u8
+#EXTINF:-1,Unknown 83
+http://137.59.155.77:8088/hls/12zeebangla.m3u8
 
 #EXTINF:-1,Unknown 0
 http://103.159.4.38:8080/BD-BANGLA-1/tracks-v1a1/mono.m3u8
