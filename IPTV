@@ -164,7 +164,35 @@ http://dds.oncast.me:1934/dlive/mass.stream/playlist.m3u8
 #EXTINF:-1,Unknown 82
 http://137.59.155.77:8088/hls/01gazitv.m3u8
 #EXTINF:-1,Unknown 83
+http://137.59.155.77:8088/hls/02IndependentTv.m3u8
+#EXTINF:-1,Unknown 84
+http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
+#EXTINF:-1,Unknown 85
 http://137.59.155.77:8088/hls/12zeebangla.m3u8
+#EXTINF:-1,Unknown 86
+http://137.59.155.77:8088/hls/10starjalsha.m3u8
+#EXTINF:-1,Unknown 87
+http://137.59.155.77:8088/hls/15ptvsports.m3u8
+#EXTINF:-1,Unknown 88
+http://137.59.155.77:8088/hls/16sonyentertainment.m3u8
+#EXTINF:-1,Unknown 89
+http://137.59.155.77:8088/hls/09starplus.m3u8
+#EXTINF:-1,Unknown 90
+http://137.59.155.77:8088/hls/13colors.m3u8
+#EXTINF:-1,Unknown 91
+http://137.59.155.77:8088/hls/11stargold.m3u8
+#EXTINF:-1,Unknown 92
+http://137.59.155.77:8088/hls/14sonymax.m3u8
+#EXTINF:-1,Unknown 93
+http://137.59.155.77:8088/hls/07starsports1.m3u8
+#EXTINF:-1,Unknown 94
+http://137.59.155.77:8088/hls/08starsports2.m3u8
+#EXTINF:-1,Unknown 95
+http://137.59.155.77:8088/hls/03sonyten1.m3u8
+#EXTINF:-1,Unknown 96
+http://137.59.155.77:8088/hls/04sonyten2.m3u8
+#EXTINF:-1,Unknown 97
+http://137.59.155.77:8088/hls/05sonysix.m3u8
 
 #EXTINF:-1,Unknown 0
 http://103.159.4.38:8080/BD-BANGLA-1/tracks-v1a1/mono.m3u8
